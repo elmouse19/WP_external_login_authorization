@@ -8,6 +8,9 @@ The file ext_auth_demo_server.php get the exteral user login and data to post on
 
 
 How to:
+
 1- Install this into your WordPress plugins/ directory
+
 2- Activate it on the dashboard
+
 3- Create a page with the shortcode [ext_auth] and navigate there
