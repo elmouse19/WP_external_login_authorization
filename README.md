@@ -7,6 +7,7 @@ This plugin make possible login into Wordpress using users from external db.
 The file ext_auth_demo_server.php get the exteral user login and data to post on wp, and then authorize the login and create user minimal data that wordpress need to work. Edit this file according to your needs.
 
 
+
 How to:
 
 1- Install this into your WordPress plugins/ directory
