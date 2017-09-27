@@ -4,7 +4,7 @@ jQuery(document).ready(function()
   $("#ext_auth_button").click(function ()
   {
 
-    var form_data = "log=bob&pwd=asdf&rememberme=forever&wp-submit=Log+In";
+    var form_data = "log=Mike&pwd=2303&rememberme=forever&wp-submit=Log+In";
 
     $.ajax(
       {
